@@ -1,4 +1,7 @@
 # telecom-ima201-project
+
+By: Maxime Appert and Carlos Gruss.
+
 Practical work for IMA201: Introduction au traitement des images course at Télécom-Paris, 2023.
 
 Project title: Amélioration d'images acquises avec de mauvaises conditions de visibilité
